@@ -1,6 +1,7 @@
 # 💫 Heyyyy!! Glad You are here , Come i will take you through:
 - 🔭 I’m currently working on **Blockchain Development**<br><br>- 🌱 I’m currently learning **Next Js, Tailwind CSS, Blockchain**<br><br>- 👯 I’m currently working With **Blockmatrix Pvt Lmt**<br><br>- 👨‍💻 All of my projects are available at [https://abhi-portfolio1890.netlify.app/](https://abhi-portfolio1890.netlify.app/)<br><br>- 💬 Ask me about **React Js, DSA**<br><br>- 📫 How to reach me **abhinayreddy0112@gmail.com**<br><br>- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1tdRH6VyKEhuUPljjs-l-msfx0iwA4Yan/view)<br><br>- ⚡ Fun fact **I Am soo Cool, Ice Cubes are jealous**
 
+<a href="https://app.daily.dev/abhi1890"><img src="https://api.daily.dev/devcards/d3dfd6743f504c62a6a518f495b0efbb.png?r=i2c" width="400" alt="Abhinay's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gujjala-abhinay-prakash-reddy-9375a1203/) 
