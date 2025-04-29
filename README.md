@@ -49,7 +49,6 @@ Upgraded MERN e-commerce app to `Next.js 13` + `GraphQL`, optimized performance,
 - 🧠 1100+ problems solved
 - 🧗‍♂️ 1709 rating, Top ~7k globally  
 [🔗 LeetCode Profile](https://leetcode.com/abhinay-thor/)  
-![Leetcode Stats](https://leetcard.jacoblin.cool/abhinay-thor?ext=contest&theme=unicorn)
 
 ---
 
