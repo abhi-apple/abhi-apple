@@ -1,6 +1,4 @@
-***
 
-```markdown
 # 👋 Hi, I'm Abhinay Reddy
 
 **Founding Engineer / Tech Lead**  
@@ -84,4 +82,3 @@ _Aug 2024 – Jan 2025_
 ---
 
 > “First, solve the problem. Then, write the code.” – John Johnson
-```
