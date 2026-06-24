@@ -1,5 +1,3 @@
-Here is a modern, high-impact GitHub Profile `README.md` updated to match the caliber of your latest resume (highlighting your founding engineer role at Vela, AI/Agentic engineering focus, macOS-native Jarvis agent, and updated professional experience).
-
 ***
 
 ```markdown
