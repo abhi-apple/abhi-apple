@@ -1,4 +1,4 @@
-# 🍥 Abhinay Reddy
+# 🍥 Abhinay Prakash Reddy
 
 **Founding Engineer | Tech Lead | AI Agentic Systems**
 
